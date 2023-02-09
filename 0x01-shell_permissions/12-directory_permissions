@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir 751 -m my_dr
+mkdir 755 -m my_dr
